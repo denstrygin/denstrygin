@@ -1,21 +1,29 @@
-# Hi there 👋! My name is Denis Strygin.
+<h1 align="center">Hi there 👋! My name is Denis Strygin.</h1>
 
-![Header](https://github.com/denstrygin/denstrygin/blob/main/assets/Programmer.png)
+<p align="center">
+    <img stc="https://github.com/denstrygin/denstrygin/blob/main/assets/Programmer.png">
+</p>
 
-## Languages and tools
+<h2 align="center">Languages and tools</h2>
 
 
 
-## Where to find me?
+<h2 align="center">Where to find me?</h2>
 
-<p>
-    <a href="" text-decoration="none">
+<style>
+   a { 
+    text-decoration: none;
+   } 
+</style>
+
+<p align="center">
+    <a href="">
         <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/telegram.png" alt="tg" height="60px">
     </a>
-    <a href="" text-decoration="none">
+    <a href="">
         <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/vk.png" alt="vk" height="60px">
     </a>
-    <a href="" text-decoration="none">
+    <a href="">
         <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/whatsapp.png" alt="whap" height="60px">
     </a>
 </p>
