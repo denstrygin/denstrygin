@@ -8,12 +8,12 @@
 
 <p align="center">
     <a href="">
-        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/telegram.png" alt="tg" height="40px" width="40px">
+        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/telegram.png" alt="tg" height="40px">
     </a>
     <a href="">
-        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/vk.png" alt="vk" height="40px" width="40px">
+        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/vk.png" alt="vk" height="40px">
     </a>
     <a href="">
-        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/whatsapp.png" alt="whap" height="40px" width="40px">
+        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/whatsapp.png" alt="whap" height="40px">
     </a>
 </p>
