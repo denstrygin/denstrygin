@@ -34,3 +34,7 @@
         <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/whatsapp.png" alt="whap" height="50px">
     </a>
 </p>
+
+<p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
