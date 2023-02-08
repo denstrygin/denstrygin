@@ -14,19 +14,23 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=FFFFFF)
-![Rest API](https://img.shields.io/badge/-Rest_API-fff200?style=for-the-badge)
-![Websocket](https://img.shields.io/badge/-Websocket-fff200?style=for-the-badge)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF)
 
 <h2 align="center">Where to find me?</h2>
 
 <p align="center">
-    <a href="">
+    <a href="https://t.me/denstrygin">
         <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/telegram.png" alt="tg" height="60px">
     </a>
-    <a href="">
+    <a href="https://vk.com/balummba">
         <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/vk.png" alt="vk" height="60px">
     </a>
-    <a href="">
+    <a href="https://api.whatsapp.com/send?phone=79968643215">
         <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/whatsapp.png" alt="whap" height="60px">
     </a>
 </p>
