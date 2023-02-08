@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋! My name is Denis Strygin.</h1>
 
 <p align="center">
-    <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/Programmer.png">
+    <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/Programmer.png" width="200px">
 </p>
 
 <h2 align="center">Languages and tools</h2>
