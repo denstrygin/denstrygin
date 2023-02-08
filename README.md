@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋! My name is Denis Strygin.</h1>
 
 <p align="center">
-    <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/Programmer.png" width="200px">
+    <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/Programmer.png" width="300px">
 </p>
 
 <h2 align="center">Languages and tools</h2>
@@ -25,12 +25,12 @@
 
 <p align="center">
     <a href="https://t.me/denstrygin">
-        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/telegram.png" alt="tg" height="60px">
+        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/telegram.png" alt="tg" height="50px">
     </a>
     <a href="https://vk.com/balummba">
-        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/vk.png" alt="vk" height="60px">
+        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/vk.png" alt="vk" height="50px">
     </a>
     <a href="https://api.whatsapp.com/send?phone=79968643215">
-        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/whatsapp.png" alt="whap" height="60px">
+        <img src="https://github.com/denstrygin/denstrygin/blob/main/assets/whatsapp.png" alt="whap" height="50px">
     </a>
 </p>
