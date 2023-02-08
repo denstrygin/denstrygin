@@ -35,4 +35,4 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denstrygin&layout=compact)](https://github.com/denstrygin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denstrygin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
