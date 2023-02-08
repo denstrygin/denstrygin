@@ -15,7 +15,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)
